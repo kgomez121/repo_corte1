@@ -1,0 +1,6 @@
+# Índice de Documentación
+
+Este directorio contiene la documentación del proyecto, incluyendo su configuración, instrucciones de uso y gestión con Git.
+
+1. config.txt Contiene detalles sobre la configuración del proyecto.
+2. readme.txt - Explica la descripción general del proyecto y su propósito.
