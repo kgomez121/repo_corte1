@@ -1,3 +1,5 @@
+10/03/2025 3:15 p. m. 
+
 Proyecto de calculo de pagos de una empresa
 Este proyecto calcula la forma de pago de una empresa de acuerdo a unas condiciones
 
