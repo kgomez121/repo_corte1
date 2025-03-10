@@ -6,3 +6,4 @@ CréditoFabricanteAlta = 15%
 InversiónBaja = 70%
 CréditoFabricanteBaja = 30%
 InterésFabricante = 20%
+prueba de pull request
